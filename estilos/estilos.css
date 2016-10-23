@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+#contenedor
+{
+	background-color: #FFF;
+	width: 803px;
+	height: 642px;
+	float: left;
+	border: 1px solid;
+	
+	
+}
+
+
+
+
+#imagen{
+	
+	width: 500px;
+	height: 300px;
+	float: right;
+	border: 1px solid;
+}
